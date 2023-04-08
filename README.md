@@ -1,2 +1,2 @@
-# VGG-16-ILE-TRANSFER-OGRENME
-Retinal görüntülerin analizi 
+# TRANSFER LEARNING WITH VGG16
+Analysis of retinal images.
